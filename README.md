@@ -1,4 +1,4 @@
 # My Papers
 ## Thermodynamic
-- [ ] [Exact research on the theory of the blackbody thermal radiation](github.com/XDMustafa/MyPapers/blob/master/Exact%20research%20on%20the%20theory%20of%20the%20blackbody%20thermal%20radiation/new%20analysis%20plank.ipynb)
+- [ ] [Exact research on the theory of the blackbody thermal radiation](https://github.com/XDMustafa/MyPapers/blob/master/Exact%20research%20on%20the%20theory%20of%20the%20blackbody%20thermal%20radiation/new%20analysis%20plank.ipynb)
 > After studying the normalized Planck equation in depth, a brand-new type of spectrum curves of blackbody thermal radiation is given. Two important parameters of the new type curves, namely relative width RWη and symmetric factor RSFη, are defined. The paper points out that the experimental verification of the parameters has three significant applications: (1) Giving a method to measure temperature by detecting the radiation wavelength. (2) Determining the blackbody grade. (3) The temperature obtained from the law of the blackbody thermal radiation can be used as a criterion.
